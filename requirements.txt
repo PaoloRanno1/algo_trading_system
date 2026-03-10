@@ -1,0 +1,8 @@
+aiohttp
+yfinance
+pandas==2.2.3
+alpaca-py
+google-genai
+pydantic
+python-dotenv
+py_clob_client
